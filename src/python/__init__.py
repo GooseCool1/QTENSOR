@@ -3,17 +3,18 @@
 QTENSOR Python Compatibility
 
 QTENSOR/
-│ __init__.py
-│ .gitattributes
-│ LICENSE
-│ README.md
+├ src/
+│ ├ python/
+│ │ └ __init__.py
+│ │
+│ └ ...
+└ ...
 """
 
 
-__version__ = "1.0.0"
+__version__ = "alpha"
 
 
-#IMPORTS
 ...
 
 
